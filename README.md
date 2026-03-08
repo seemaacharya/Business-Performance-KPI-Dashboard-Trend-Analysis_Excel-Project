@@ -29,6 +29,6 @@ Data Cleaning & Validation Techniques
 
 ~40% reduction in manual reporting effort
 
-Improved KPI visibility for leadership
+Improved KPI visibility by ~60–70% for leadership through automated dashboards and structured performance reporting
 
 Centralized reporting across 40,000+ transactions
