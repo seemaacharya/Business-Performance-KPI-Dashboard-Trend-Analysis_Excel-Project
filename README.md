@@ -27,8 +27,12 @@ Data Cleaning & Validation Techniques
 
 ## Outcome
 
-~40% reduction in manual reporting effort
+Developed Excel dashboard on 40,000+ records, improving revenue visibility
+
+Automated reporting processes, reducing manual effort by ~40%
 
 Improved KPI visibility by ~60–70% for leadership through automated dashboards and structured performance reporting
 
-Centralized reporting across 40,000+ transactions
+Identified top-performing SKUs contributing to 15–20% of total revenue
+
+Improved reporting turnaround time by ~30%
